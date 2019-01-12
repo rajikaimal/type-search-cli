@@ -1,0 +1,23 @@
+{
+  "name": "type-search-cli",
+  "version": "1.0.0",
+  "description": "Search @types/* packages using command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/type-search-cli.git"
+  },
+  "keywords": [
+    "typescript",
+    "search"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/type-search-cli/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/type-search-cli#readme"
+}
