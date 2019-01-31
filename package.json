@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rajikaimal/type-search-cli/issues"
   },
-  "homepage": "https://github.com/rajikaimal/type-search-cli#readme"
+  "homepage": "https://github.com/rajikaimal/type-search-cli#readme",
+  "dependencies": {
+    "got": "^9.6.0"
+  }
 }
